@@ -13,3 +13,6 @@ The goal of the Higgs Boson Machine Learning Challenge is to explore the potenti
 learning methods to improve the discovery significance of the experiment. No knowledge of particle 
 physics is required. Using simulated data with features characterizing events detected by ATLAS, your
 task is to classify events into "tau tau decay of a Higgs boson" versus "background." 
+
+
+DATASETS: https://www.kaggle.com/c/higgs-boson
